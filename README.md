@@ -1,1 +1,1 @@
-Go Pricing Engine
+Go Server Template
